@@ -1,0 +1,11 @@
+.friends {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    width: 75%;
+}
+.cart-area {
+    width: 25%;
+}
+.main {
+    display: flex;
+}

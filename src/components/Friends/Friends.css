@@ -1,0 +1,9 @@
+.friend img {
+    width: 200px;
+    height: 200px;
+}
+.friend {
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
